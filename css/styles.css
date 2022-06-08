@@ -1,0 +1,58 @@
+body{background-color: orange; text-align: center; font-size: 1.4em; }
+img{width: 15%;}
+.worldmap{width: 100%; margin: 100px auto;}
+.plane-sticker{width: 30%; position: absolute; left:20rem; top: 49.8rem ;}
+.ship-sticker{width: 12.5%; position: absolute; right: 18rem; top: 77.2rem;}
+.dog-sticker{float: left; margin-left: 12rem; width:20%;}
+.luggage-sticker{float: left; margin: 4rem auto auto 16rem;}
+.passport-sticker{float: right; margin-right: 16rem;}
+.ship-stickerII{float: left; margin-left: 16rem;}
+.airplanewindow-sticker{float: right; margin-right: 16rem; width: 8%; position: relative; top: 0.2rem; left: 4rem;}
+hr {border-color: white;border-width: 20px;border-style: none;border-top-style: dotted;height: 0;width: 13%; margin: 100px auto;}
+h1{font-size: 8rem; position: relative; right: 2.5rem;}
+h2{ font-family: 'Caveat', cursive; font-size: 2.8rem;}
+.merhaba{display:inline-block ; position: relative; right: 15rem;}
+.hikaye{display:inline-block ; position: relative; left: 15rem;}
+.sırada{display:inline-block ; position: relative; right: 15rem;}
+p{font-family: 'Bad Script', cursive; width: 33%;margin: auto; line-height: 2; font-weight: bold;}
+.introduction{font-size: 3rem;width: 100%; margin-bottom: 50px; position: relative; right: 2.5rem;}
+a{font-family: 'Bad Script', cursive; text-decoration: none; color: #4B7BE5;}
+a:hover{color: white;}
+.top-container{font-family: 'Tangerine', cursive;}
+.middle-container{}
+.bottom-container{background-color: black; position: absolute; left: 0; margin-top: 100px; padding-top: 15px;}
+.rights{font-size: 0.75rem; color: white; position: relative; left: 31.4rem; padding-bottom: 30px;}
+.hidding-dog{width: 8%; position: relative; left: 21rem; z-index: 1; transform: rotate(-3grad);}
+.insta{position: relative; right: 17.65rem; bottom: 3.5rem;}
+.hakk{position: relative; right: 12.3rem; top: 1rem; }
+.tr{z-index: 2; position: absolute; right: 38.5rem; top: 54.3rem; font-weight: bold; font-family: 'Lobster', cursive; color: #990000; background-color: #c983b7; font-size: 95%;}
+.profile{width: 7%; position: absolute; display: inline; top: 20px; right: 20px;}
+span{text-decoration: underline;}
+
+.btn {
+  background: #1691e3;
+  background-image: -webkit-linear-gradient(top, #1691e3, #185678);
+  background-image: -moz-linear-gradient(top, #1691e3, #185678);
+  background-image: -ms-linear-gradient(top, #1691e3, #185678);
+  background-image: -o-linear-gradient(top, #1691e3, #185678);
+  background-image: linear-gradient(to bottom, #1691e3, #185678);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family:'Caveat', cursive;;
+  color: #ffffff;
+  font-size: 20px;
+  position: relative; left: 1.2rem; top: 1.2rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7FB5FF;
+  background-image: -webkit-linear-gradient(top, #7FB5FF, #5234d9);
+  background-image: -moz-linear-gradient(top, #7FB5FF, #5234d9);
+  background-image: -ms-linear-gradient(top, #7FB5FF, #5234d9);
+  background-image: -o-linear-gradient(top, #7FB5FF, #5234d9);
+  background-image: linear-gradient(to bottom, #7FB5FF, #5234d9);
+  text-decoration: none;
+}
